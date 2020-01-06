@@ -1,6 +1,6 @@
 +++
 version = "2.0"
-aliases = ["/version/2/0"]
+aliases = ["/version/2/0/uk"]
 +++
 
 # Пакт про участь - Кодекс поведінки
@@ -76,7 +76,7 @@ aliases = ["/version/2/0"]
 
 ## Посилання
 
-Цей Кодекс поведінки заснований на [Пакті про участь][homepage], версії 2.0, що знаходиться за адресою https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
+Цей Кодекс поведінки заснований на [Пакті про участь][homepage], версії 2.0, що знаходиться за адресою https://www.contributor-covenant.org/uk/version/2/0/code_of_conduct.html.
 
 Настанови щодо впливу на спільноту створенно під вплиовом від [Mozilla's code of conduct enforcement ladder](https://github.com/mozilla/diversity).
 
