@@ -78,8 +78,8 @@ aliases = ["/version/2/0/uk"]
 
 Цей Кодекс поведінки заснований на [Пакті про участь][homepage], версії 2.0, що знаходиться за адресою https://www.contributor-covenant.org/uk/version/2/0/code_of_conduct.html.
 
-Настанови щодо впливу на спільноту створенно під вплиовом від [Mozilla's code of conduct enforcement ladder](https://github.com/mozilla/diversity).
+Настанови щодо впливу на спільноту створенно під впливом від [Mozilla's code of conduct enforcement ladder](https://github.com/mozilla/diversity).
 
 [homepage]: https://www.contributor-covenant.org
 
-Відповіді на поширені запитання щодо цього кодексу поведінки дивись – https://www.contributor-covenant.org/faq. Переклади іншими мовами досптуні за посиланням – https://www.contributor-covenant.org/translations.
+Відповіді на поширені запитання щодо цього кодексу поведінки дивись – https://www.contributor-covenant.org/faq. Переклади іншими мовами доступні за посиланням – https://www.contributor-covenant.org/translations.
